@@ -4,13 +4,16 @@ ADDED from D:\geekbunk\android\app\src\main\AndroidManifest.xml:1:1-48:12
 INJECTED from D:\geekbunk\android\app\src\main\AndroidManifest.xml:1:1-48:12
 INJECTED from D:\geekbunk\android\app\src\main\AndroidManifest.xml:1:1-48:12
 INJECTED from D:\geekbunk\android\app\src\main\AndroidManifest.xml:1:1-48:12
+MERGED from [:react-native-vector-icons] D:\geekbunk\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:expo-permissions] D:\geekbunk\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-screens] D:\geekbunk\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:unimodules-react-native-adapter] D:\geekbunk\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_async-storage] D:\geekbunk\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-community_masked-view] D:\geekbunk\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-gesture-handler] D:\geekbunk\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-reanimated] D:\geekbunk\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-safe-area-context] D:\geekbunk\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-sqlite-storage] D:\geekbunk\node_modules\react-native-sqlite-storage\platforms\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\adity\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.61.5.aar\1b5dce9ce29de2d4cb48c4a63eefe004\AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\adity\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\94dc32df798c618976fec68c7dff3c47\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\adity\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\7a4ce6e5fb4a67c8e1c3076e999f2c51\AndroidManifest.xml:17:1-24:12
@@ -259,12 +262,16 @@ uses-sdk
 INJECTED from D:\geekbunk\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\geekbunk\android\app\src\main\AndroidManifest.xml
 INJECTED from D:\geekbunk\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-vector-icons] D:\geekbunk\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\geekbunk\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-permissions] D:\geekbunk\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-permissions] D:\geekbunk\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-screens] D:\geekbunk\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-screens] D:\geekbunk\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:unimodules-react-native-adapter] D:\geekbunk\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:unimodules-react-native-adapter] D:\geekbunk\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_async-storage] D:\geekbunk\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] D:\geekbunk\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_masked-view] D:\geekbunk\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_masked-view] D:\geekbunk\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-gesture-handler] D:\geekbunk\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
@@ -273,6 +280,8 @@ MERGED from [:react-native-reanimated] D:\geekbunk\node_modules\react-native-rea
 MERGED from [:react-native-reanimated] D:\geekbunk\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-safe-area-context] D:\geekbunk\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-safe-area-context] D:\geekbunk\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-sqlite-storage] D:\geekbunk\node_modules\react-native-sqlite-storage\platforms\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sqlite-storage] D:\geekbunk\node_modules\react-native-sqlite-storage\platforms\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\adity\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.61.5.aar\1b5dce9ce29de2d4cb48c4a63eefe004\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\adity\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.61.5.aar\1b5dce9ce29de2d4cb48c4a63eefe004\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\adity\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\94dc32df798c618976fec68c7dff3c47\AndroidManifest.xml:20:5-44
